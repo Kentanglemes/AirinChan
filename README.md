@@ -14,8 +14,8 @@
 > **❤ Vote on [Top.gg]()**
 > **-**
 
-> **💙 Vote on [Discords.com]()**
-> **-**
+> **💙 Vote on [Discords.com](https://discords.com/bots/bot/1212767207885504513/vote)**
+> **https://discords.com/bots/bot/1212767207885504513/vote**
 
 > **🤍 Vote on [Discordbotlist.com](https://discordbotlist.com/bots/faridz/upvote)**
 > **https://discordbotlist.com/bots/faridz/upvote**
