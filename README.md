@@ -11,19 +11,19 @@
 
 ## 📖 Vote
 
-> **❤ Vote on [Top.gg]()**
+> **❤ Vote on Top.gg**
 > **-**
 
-> **💙 Vote on [Discords.com](https://discords.com/bots/bot/1212767207885504513/vote)**
+> **💙 Vote on Discords.com**
 > **https://discords.com/bots/bot/1212767207885504513/vote**
 
-> **🤍 Vote on [Discordbotlist.com](https://discordbotlist.com/bots/faridz/upvote)**
+> **🤍 Vote on Discordbotlist.com**
 > **https://discordbotlist.com/bots/faridz/upvote**
 
-> **🧡 [Discord.me](https://discord.me/faridz)**
+> **🧡 Discord.me**
 > **https://discord.me/faridz**
 
-> **💜 [Discord.bots.gg](https://discord.bots.gg/bots/1212767207885504513)**
+> **💜 Discord.bots.gg**
 > **https://discord.bots.gg/bots/1212767207885504513**
 
 ## 👑 Owner
