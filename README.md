@@ -20,8 +20,11 @@
 > **🤍 Vote on [Discordbotlist.com](https://discordbotlist.com/bots/faridz/upvote)**
 > **https://discordbotlist.com/bots/faridz/upvote**
 
-> **🧡 Vote on [Discord.me](https://discord.me/faridz)
+> **🧡 [Discord.me](https://discord.me/faridz)**
 > **https://discord.me/faridz**
+
+> **💜 [Discord.bots.gg](https://discord.bots.gg/bots/1212767207885504513)**
+> **https://discord.bots.gg/bots/1212767207885504513**
 
 ## 👑 Owner
 <div align="center">
