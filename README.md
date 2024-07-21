@@ -21,7 +21,7 @@
 > **https://discordbotlist.com/bots/faridz/upvote**
 
 > **🧡 Discord.me**
-> > **https://discord.me/faridz**
+> **https://discord.me/faridz**
 
 > **💜 Discord.bots.gg**
 > **https://discord.bots.gg/bots/1212767207885504513**
