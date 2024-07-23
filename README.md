@@ -26,7 +26,24 @@
 > **💜 Discord.bots.gg**
 > **https://discord.bots.gg/bots/1212767207885504513**
 
-## 👑 Owner
+# ⚙️ Support Server
+**https://discord.com/invite/2wQyNDbyk3**
+
+# 💰 Donate Me
+**• https://saweria.co/trasplay**
+
+**• https://trakteer.id/trasplay/tip**
+
+# 🪩 Social Media
+**• https://youtube.com/@trasplay**
+
+**• https://tiktok.com/@trasplaybot**
+
+**• https://instagram.com/trasplaybot**
+
+**⚠️ Faridz Part Of Trasplay ⚠️**
+
+# 👑 Owner
 <div align="center">
   <a width="100%" href="https://discord.com/invite/2wQyNDbyk3"  target="_blank">
     <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-1/995913592253710356.png">
