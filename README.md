@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Faridz 🎶 </h1>
-  <p>Faridz the perfect music bot for your server!<p>
+  <p>Verified: 03 May 2024 (No Team)<p>
 </div> 
 
 <details align=center>
