@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Faridz 🎶 </h1>
+  <h1>AirinChan 🎶 </h1>
   <p>Verified: 03 May 2024 (No Team)<p>
 </div> 
 
 <details align=center>
 <summary><h2>Invite Me</h2></summary>
   
-[Click Here](https://dsc.gg/faridz)
+[Click Here](https://dsc.gg/airinchan)
 </details>
 
 ## 📖 Vote
@@ -18,10 +18,10 @@
 > **https://discords.com/bots/bot/1212767207885504513/vote**
 
 > **🤍 Vote on Discordbotlist.com**
-> **https://discordbotlist.com/bots/faridz/upvote**
+> **https://discordbotlist.com/bots/airinchan/upvote**
 
 > **🧡 Discord.me**
-> **https://discord.me/faridz**
+> **https://discord.me/airinchan**
 
 > **💜 Discord.bots.gg**
 > **Nothing**
@@ -41,7 +41,7 @@
 
 **• https://instagram.com/trasplaybot**
 
-**⚠️ Faridz Part Of Trasplay ⚠️**
+**⚠️ AirinChan Part Of Trasplay ⚠️**
 
 # 👑 Owner
 <div align="center">
