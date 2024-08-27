@@ -12,7 +12,7 @@
 ## 📖 Vote
 
 > **❤ Vote on Top.gg**
-> **-**
+> **ComingSoon**
 
 > **💙 Vote on Discords.com**
 > **https://discords.com/bots/bot/1212767207885504513/vote**
@@ -24,7 +24,7 @@
 > **https://discord.me/faridz**
 
 > **💜 Discord.bots.gg**
-> **https://discord.bots.gg/bots/1212767207885504513**
+> **Nothing**
 
 # ⚙️ Support Server
 **https://discord.com/invite/2wQyNDbyk3**
