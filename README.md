@@ -27,7 +27,7 @@
 > **Nothing**
 
 # ⚙️ Support Server
-**https://discord.com/invite/2wQyNDbyk3**
+**https://discord.com/invite/Ds4jhU3xzB**
 
 # 💰 Donate Me
 **• https://saweria.co/trasplay**
