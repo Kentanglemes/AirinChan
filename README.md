@@ -11,9 +11,6 @@
 
 ## 📖 Vote
 
-> **❤ Vote on Top.gg**
-> **ComingSoon**
-
 > **💙 Vote on Discords.com**
 > **https://discords.com/bots/bot/1212767207885504513/vote**
 
@@ -22,9 +19,6 @@
 
 > **🧡 Discord.me**
 > **https://discord.me/airinchan**
-
-> **💜 Discord.bots.gg**
-> **Nothing**
 
 # ⚙️ Support Server
 **https://discord.com/invite/Ds4jhU3xzB**
