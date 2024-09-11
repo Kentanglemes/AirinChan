@@ -1,3 +1,9 @@
+<div align="center" style"border-radius:15px">
+  <a href="https://airinchan.vercel.apl" title="Discord Server" target="_blank">
+    <img src="https://images-ext-1.discordapp.net/external/9rDDzTG3znsh_X4cwjj2xqoWMprDR4CWs5EGeBojktg/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/1212767207885504513/22142baedbeedd5d09da509bc1ee3647.png" style"width: 100%;border-radius:15px">
+  </a>
+</div>
+
 <div align="center">
   <h1>AirinChan 🎶 </h1>
   <p>Verified: 03 May 2024 (No Team)<p>
