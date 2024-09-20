@@ -59,7 +59,7 @@ Dengan menggunakan AirinChan, Anda setuju untuk mematuhi dan terikat pada syarat
 
 # Penghentian
 
-• Pelanggaran terhadap ketentuan ini dapat mengakibatkan penghentian layanan Trasplay bagi pengguna atau server yang melanggar.
+• Pelanggaran terhadap ketentuan ini dapat mengakibatkan penghentian layanan AirinChan bagi pengguna atau server yang melanggar.
 
 # Modifikasi Ketentuan
 
