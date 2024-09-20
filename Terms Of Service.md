@@ -35,7 +35,7 @@ Dengan menggunakan AirinChan, Anda setuju untuk mematuhi dan terikat pada syarat
 
 # Keamanan Server
 
-• Pastikan Trasplay digunakan di server dengan langkah keamanan yang tepat.
+• Pastikan AirinChan digunakan di server dengan langkah keamanan yang tepat.
 
 • Token dan kredensial bot harus dijaga kerahasiaannya.
 
