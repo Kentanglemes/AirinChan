@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h1>AirinChan 🎶 </h1>
+  <h1>AirinChan 💸 </h1>
   <p>Verified: 03 May 2024 (No Team)<p>
 </div> 
 
