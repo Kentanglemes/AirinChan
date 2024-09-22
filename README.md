@@ -30,9 +30,7 @@
 **https://discord.com/invite/Ds4jhU3xzB**
 
 # 💰 Donate Me
-**• https://saweria.co/trasplay**
-
-**• https://trakteer.id/trasplay/tip**
+**• https://saweria.co/aprilioakbar**
 
 # 🪩 Social Media
 **• https://youtube.com/@xgenerate**
