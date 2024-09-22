@@ -1,6 +1,6 @@
 <div align="center" style"border-radius:15px">
-  <a href="https://airinchan.vercel.apl" title="Discord Server" target="_blank">
-    <img src="https://images-ext-1.discordapp.net/external/9rDDzTG3znsh_X4cwjj2xqoWMprDR4CWs5EGeBojktg/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/1212767207885504513/22142baedbeedd5d09da509bc1ee3647.png" style"width: 100%;border-radius:15px">
+  <a href="https://airinchan.vercel.app" title="Discord Server" target="_blank">
+    <img src="https://media.discordapp.net/attachments/1235904997905137756/1287269708286132276/c0caed98-09e5-48f3-9c51-fe54469a57f6.jpg?ex=66f0eed6&is=66ef9d56&hm=b3b21728f5f05fc53c0538e16087d05d79717f11c3cfa8d65b0b02368cbe3780&" style"width: 100%;border-radius:15px">
   </a>
 </div>
 
