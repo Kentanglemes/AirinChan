@@ -12,7 +12,7 @@
 <details align=center>
 <summary><h2>Invite Me</h2></summary>
   
-[Click Here](https://dsc.gg/airinchan)
+[Click Here](https://discord.com/oauth2/authorize?client_id=1212767207885504513&permissions=1074120768&integration_type=0&scope=bot+applications.commands)
 </details>
 
 ## 📖 Vote
