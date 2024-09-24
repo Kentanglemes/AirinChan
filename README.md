@@ -1,6 +1,6 @@
 <div align="center" style"border-radius:15px">
   <a href="https://airinchan.vercel.app" title="Discord Server" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1235904997905137756/1287269708286132276/c0caed98-09e5-48f3-9c51-fe54469a57f6.jpg?ex=66f0eed6&is=66ef9d56&hm=b3b21728f5f05fc53c0538e16087d05d79717f11c3cfa8d65b0b02368cbe3780&" style"width: 100%;border-radius:15px">
+    <img src="https://media.discordapp.net/attachments/1235904997905137756/1288287414594306140/images.jpg?ex=66f4a2a6&is=66f35126&hm=fb6224cc7412a9eef2e933ddfcbfffacd78fb1383becae56a3b8e6d0e6d7ec1e&" style"width: 100%;border-radius:15px">
   </a>
 </div>
 
@@ -17,6 +17,8 @@
 
 ## 📖 Vote
 
+> **❤ Vote On Top.gg**
+> > **https://top.gg/1212767207885504513/vote**
 > **💙 Vote on Discords.com**
 > **https://discords.com/bots/bot/1212767207885504513/vote**
 
