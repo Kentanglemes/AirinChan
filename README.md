@@ -18,7 +18,7 @@
 ## 📖 Vote
 
 > **❤ Vote On Top.gg**
-> > **https://top.gg/bot/1212767207885504513/vote**
+> **https://top.gg/bot/1212767207885504513/vote**
 
 
 > **💙 Vote on Discords.com**
