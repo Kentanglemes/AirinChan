@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <a href="https://airinchan.vercel.app" title="Discord Server" target="_blank">
+  <a href="https://airinchan.my.id" title="Discord Server" target="_blank">
     <img src="https://media.discordapp.net/attachments/1235904997905137756/1288287414594306140/images.jpg?ex=66f4a2a6&is=66f35126&hm=fb6224cc7412a9eef2e933ddfcbfffacd78fb1383becae56a3b8e6d0e6d7ec1e&" style"width: 100%;border-radius:15px">
   </a>
 </div>
