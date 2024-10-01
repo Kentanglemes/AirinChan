@@ -1,6 +1,6 @@
 ⚠️ Translate this page if you can't speak Indonesian. ⚠️
 
-# Privacy Policy for AirinChan Musik Bot Discord
+# Privacy Policy for AirinChan
 Last updated: 20 September 2024 by Alandainos
 
 # Informasi yang Dikumpulkan
