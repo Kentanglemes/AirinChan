@@ -1,6 +1,6 @@
 <div align="center" style"border-radius:15px">
   <a href="https://airinchan.my.id" title="Discord Server" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1235904997905137756/1289967030547517512/20240929_214156.jpg?ex=66fabeea&is=66f96d6a&hm=e12dc85d9c63074ad9d4175c9b1eb62543f0c882b4d3f5799b15ae3fa5e0c8b2&" style"width: 100%;border-radius:15px">
+    <img src="https://media.discordapp.net/attachments/1235904997905137756/1295035465468215409/Logo_AirinChan.png?ex=670d2f43&is=670bddc3&hm=3eb34dd03992beb947c6731ee0f32411289e204a14d1c16e49ef570109caa3a7&" style"width: 100%;border-radius:15px">
   </a>
 </div>
 
