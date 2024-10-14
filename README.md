@@ -27,6 +27,9 @@
 > **🤍 Vote on Discordbotlist.com**
 > **https://discordbotlist.com/bots/airinchan/upvote**
 
+> **❤‍🩹 Vote on Discordlist.gg**
+> **https://discordlist.gg/bot/1212767207885504513/vote**
+
 > **🧡 Discord.me**
 > **https://discord.me/airinchan**
 
