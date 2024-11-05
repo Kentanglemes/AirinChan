@@ -1,11 +1,11 @@
 <div align="center" style"border-radius:15px">
   <a href="https://airinchan.my.id" title="Discord Server" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1235904997905137756/1295035465468215409/Logo_AirinChan.png?ex=670d2f43&is=670bddc3&hm=3eb34dd03992beb947c6731ee0f32411289e204a14d1c16e49ef570109caa3a7&" style"width: 100%;border-radius:15px">
+    <img src="https://media.discordapp.net/attachments/1235904997905137756/1303308950913024041/airin.jpg?ex=672b488c&is=6729f70c&hm=b1c0c014d477263ca23c795179bdff64c8afe6a66772ab5e776f46d8a036df2d&" style"width: 100%;border-radius:15px">
   </a>
 </div>
 
 <div align="center">
-  <h1>AirinChan 💸 </h1>
+  <h1>AirinChan 🎶 </h1>
   <p>Verified: 03 May 2024 (No Team)<p>
 </div> 
 
