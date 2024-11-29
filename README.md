@@ -11,44 +11,9 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&size=30&duration=3000&pause=1000&color=00DA22&center=true&vCenter=true&width=435&lines=HELLO+*+I'M+'AIRINCHAN';+DISCORD+MUSIC+'%25BOT%25'">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&size=30&duration=3000&pause=1000&color=00DA22&center=true&vCenter=true&width=435&lines=HELLO+*+I'M+'AIRINCHAN';+DISCORD+MUSIC+BOT">
   </a>
 </div>
-
-
-## 🚀 My Projects
-
-<img height="350" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/7d239486126039.5d908668ad9ef.jpg">
-
-- [**Future Project Dashboard**](https://ipoipophil.vercel.app/)
-  - NextJs Framework
-  - Using good practices in coding
-  - Using UI libraries to make things professionally
-
-- [**AI-Generated Portfolio**](https://joemar-j-cardio-portfoliovnyr8ov9ho.codedesign.app/)
-  - Modern tech stack implementation
-  - AI-powered features
-  - Professional project showcase
-
-- [**Custom Django Template**](https://mar-custom-django-template.onrender.com/)
-  - Reusable project structure
-  - Best practices implementation
-  - Customizable components
-
-- [**OJT Blog Website**](https://adrian-joemar-ojt-blogs.onrender.com/)
-  - Collaborative full-stack project
-  - Content management system
-  - Responsive design
-
-- [**TicTacToe Game**](https://mar-tic-tac-toe.onrender.com/)
-  - Interactive JavaScript implementation
-  - Modern UI/UX
-  - Responsive design
-
-- [**ZUITT Bootcamp Portfolio**](https://joemar25.github.io/fcb-portfolio/)
-  - Clean and modern design
-  - Bootcamp project showcase
-  - Responsive layout
 
 ## 🛠️ Languages and Tools
 
@@ -168,39 +133,6 @@
     </td>
   </tr>
 </table>
-
-## 🎨 Design Tools
-
-<p align="center">
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.canva.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
-  </a>
-  <a href="https://flutterflow.io/" target="_blank" rel="noreferrer">
-    <img src="https://asset.brandfetch.io/id209IGdxm/idGj5i8Kzv.jpeg" alt="Flutterflow" width="40" height="40"/>
-  </a>
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemar25&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/joemar25?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=joemar25&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/joemar25?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=joemar25&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
-  </a>
-</p>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=joemar25&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribution Graph
 
