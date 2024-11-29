@@ -173,14 +173,14 @@ If you love this bot, don't forget to vote.
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joemar25&theme=tokyo-night"/>
 
-## 🔗 Connect With Me
+## 🔗 Contact Me
 
 <p align="center">
-  <a href="mailto:joemarcardino@gmail.com" target="_blank">
+  <a href="helper@airinchan.my.id" target="_blank">
     <img src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" alt="Email"/>
   </a>
   <a href="mailto:joemarcardino@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/discord%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" alt="Support Server"/>
+    <img src="https://img.shields.io/badge/discord%20-000?style=for-the-badge&logo=discord&logoColor=BB001B" alt="Support Server"/>
   </a>
 </p>
 
