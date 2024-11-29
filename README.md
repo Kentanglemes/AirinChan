@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&size=30&duration=3000&pause=1000&color=00DA22&center=true&vCenter=true&width=435&lines=HELLO+I'M+'AIRINCHAN';+DISCORD+MUSIC+BOT">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&size=30&duration=3000&pause=1000&color=e2e8ff&center=true&vCenter=true&width=435&lines=HELLO+I'M+'AIRINCHAN';+DISCORD+MUSIC+BOT">
   </a>
 </div>
 
