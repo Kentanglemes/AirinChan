@@ -1,4 +1,4 @@
-<h3 align="center">AirinChan perfect Discord music bot.</h3>
+<h3 align="center">AirinChan Discord Bot.</h3>
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&size=30&duration=3000&pause=1000&color=00DA22&center=true&vCenter=true&width=435&lines=HELLO+*+I'M+'AIRINCHAN';+DISCORD+MUSIC+BOT">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&size=30&duration=3000&pause=1000&color=00DA22&center=true&vCenter=true&width=435&lines=HELLO+I'M+'AIRINCHAN';+DISCORD+MUSIC+BOT">
   </a>
 </div>
 
@@ -141,14 +141,11 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://joemar-j-cardio-portfoliovnyr8ov9ho.codedesign.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/joemar-cardiño" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" alt="LinkedIn"/>
-  </a>
   <a href="mailto:joemarcardino@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" alt="Email"/>
+  </a>
+  <a href="mailto:joemarcardino@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/discord%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" alt="Support Server"/>
   </a>
 </p>
 
