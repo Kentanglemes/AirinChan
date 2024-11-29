@@ -172,11 +172,7 @@ If you love this bot, don't forget to vote.
 </p>
 
 <div align="center">
-  <i>"🎉 The perfect music bot in 2024</i>
-</div>
-
-<div align="center">
-  <img height="30" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
+  <i>"🎉 The perfect Discord music bot in 2024"</i>
 </div>
 
 <p align="center">© 2024 AirinChan. All rights reserved.</p>
