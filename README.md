@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://airinchan.my.id" target="_blank">
-    <img alt="Coding" width="200" src="https://media1.tenor.com/m/8JAMkdOO37IAAAAC/chino-anime.gif">
+    <img alt="Coding" width="700" src="https://media1.tenor.com/m/8JAMkdOO37IAAAAC/chino-anime.gif">
   </a>
 </p>
 
