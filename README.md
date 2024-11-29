@@ -185,7 +185,7 @@ If you love this bot, don't forget to vote.
 </p>
 
 <div align="center">
-  <i>"🎉 Discord Music Bot"</i>
+  <i>"🎶 Discord Music Bot"</i>
 </div>
 
 <p align="center">© 2024 AirinChan. All rights reserved.</p>
