@@ -15,6 +15,31 @@
   </a>
 </div>
 
+## AirinChan the prefect Discord music bot 
+
+AirinChan is a high-quality Discord music bot designed to elevate your server's music experience.
+
+## ✨ Key Features
+
+🎶 • High-Quality Streaming: Lag-free, uncompromised music. Play songs from Spotify, SoundCloud and, Deezer other platforms seamlessly!
+
+💎 • Premium Features: Enjoy a variety of features for premium users 
+
+🛠 • Flexible & User-Friendly: Commands designed for everyone.
+
+## 📖 How to Get Started
+
+1. Add the bot to your server: [Click here to Invite!](https://discord.com/oauth2/authorize?client_id=1212767207885504513&permissions=6479538432&integration_type=0&scope=bot+applications.commands)
+
+2. Type /play in the chat channel and enter a song name or link.
+
+3. Use commands like /pause, /stop, /skip, etc., to control your music.
+
+4. Enjoy your favorite tunes with friends!
+
+## 🌟 Support Us
+
+If you love this bot, don't forget to vote.
 ## 🛠️ Languages and Tools
 
 <table align="center">
