@@ -26,13 +26,13 @@ AirinChan is a high-quality Discord music bot designed to elevate your server's 
 
 ## 📖 How to Get Started
 
-1⃣ • Add the bot to your server: [Click here to Invite!](https://discord.com/oauth2/authorize?client_id=1212767207885504513&permissions=6479538432&integration_type=0&scope=bot+applications.commands)
+1. Add the bot to your server: [Click here to Invite!](https://discord.com/oauth2/authorize?client_id=1212767207885504513&permissions=6479538432&integration_type=0&scope=bot+applications.commands)
 
-2⃣ • Type /play in the chat channel and enter a song name or link.
+2. Type /play in the chat channel and enter a song name or link.
 
-3⃣ • Use commands like /pause, /stop, /skip, etc., to control your music.
+3. Use commands like /pause, /stop, /skip, etc., to control your music.
 
-4⃣ • Enjoy your favorite tunes with friends!
+4. Enjoy your favorite tunes with friends!
 
 ## 🌟 Support Us
 
