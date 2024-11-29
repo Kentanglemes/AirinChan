@@ -171,7 +171,7 @@ If you love this bot, don't forget to vote.
 
 ## 📈 Contribution Graph
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joemar25&theme=tokyo-night"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kentanglemes&theme=tokyo-night"/>
 
 ## 🔗 Contact Me
 
@@ -179,7 +179,7 @@ If you love this bot, don't forget to vote.
   <a href="helper@airinchan.my.id" target="_blank">
     <img src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" alt="Email"/>
   </a>
-  <a href="mailto:joemarcardino@gmail.com" target="_blank">
+  <a href="https://discord.com/invite/2wQyNDbyk3" target="_blank">
     <img src="https://img.shields.io/badge/discord%20-000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Support Server"/>
   </a>
 </p>
