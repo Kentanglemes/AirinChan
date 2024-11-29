@@ -4,8 +4,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <p align="center">
-  <a href="https://joemar-j-cardio-portfoliovnyr8ov9ho.codedesign.app/" target="_blank">
-    <img alt="Coding" width="200" src="https://media3.giphy.com/media/cmCEsJZHYBPels360q/giphy.webp?cid=790b7611de45amwozfo05vldfccd96obl9n1sbarhj81kjff&ep=v1_stickers_search&rid=giphy.webp&ct=s">
+  <a href="https://airinchan.my.id" target="_blank">
+    <img alt="Coding" width="200" src="https://media1.tenor.com/m/8JAMkdOO37IAAAAC/chino-anime.gif">
   </a>
 </p>
 
