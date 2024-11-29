@@ -175,7 +175,7 @@ If you love this bot, don't forget to vote.
 </p>
 
 <div align="center">
-  <i>"Good code is its own best documentation." - Steve McConnell</i>
+  <i>"🎉 The perfect music bot in 2024</i>
 </div>
 
 <div align="center">
