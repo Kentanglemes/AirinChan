@@ -180,7 +180,7 @@ If you love this bot, don't forget to vote.
     <img src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" alt="Email"/>
   </a>
   <a href="mailto:joemarcardino@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/discord%20-000?style=for-the-badge&logo=discord&logoColor=BB001B" alt="Support Server"/>
+    <img src="https://img.shields.io/badge/discord%20-000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Support Server"/>
   </a>
 </p>
 
