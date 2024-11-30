@@ -35,17 +35,9 @@ AirinChan is a high-quality Discord music bot designed to elevate your server's 
 • Enjoy your favorite tunes with friends!
 
 ## ✨ Vote Me
-**[📥 • Vote on Top.gg](https://top.gg/bot/1212767207885504513/vote)**
+**[Top.gg](https://top.gg/bot/1212767207885504513/vote)**, **[Discords.com](https://discords.com/bots/bot/1212767207885504513/vote)**, **[Discordbotlist.com](https://discordbotlist.com/bots/airinchan/upvote)**
 
-**[📥 • Vote on Discords.com](https://discords.com/bots/bot/1212767207885504513/vote)**
-
-**[📥 • Vote on Discordbotlist.com](https://discordbotlist.com/bots/airinchan/upvote)**
-
-**[📥 • Vote on Discordlist.gg](https://discordlist.gg/bot/1212767207885504513/vote)**
-
-**[📥 • Vote on Discord.me](https://discord.me/airinchan)**
-
-**[📥 • Vote on Discord.bots.gg](https://discord.bots.gg/bots/1212767207885504513/)**
+**[Discordlist.gg](https://discordlist.gg/bot/1212767207885504513/vote)**, **[Discord.me](https://discord.me/airinchan)**, **[Discord.bots.gg](https://discord.bots.gg/bots/1212767207885504513/)**
 
 ## 🌟 Support Us
 
