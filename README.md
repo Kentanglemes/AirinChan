@@ -169,6 +169,10 @@ If you love this bot, don't forget to vote.
   </tr>
 </table>
 
+## 👥 Meet Our Team
+[![Jonah Lawrence](https://github.com/88CJ.png?size=60)](https://github.com/88CJ "KYDO on GitHub")
+
+
 ## 📈 Contribution Graph
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kentanglemes&theme=tokyo-night"/>
