@@ -170,7 +170,8 @@ If you love this bot, don't forget to vote.
 </table>
 
 ## 👥 Meet Our Team
-[![Jonah Lawrence](https://github.com/88JC.png?size=60)](https://github.com/88JC "KYDO on GitHub")
+[![AlanDainos](https://github.com/kentanglemes.png?size=60)](https://github.com/kentanglemes "Alandainos on Github")
+[![KYDO](https://github.com/88JC.png?size=60)](https://github.com/88JC "KYDO on GitHub")
 
 
 ## 📈 Contribution Graph
