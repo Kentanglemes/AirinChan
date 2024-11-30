@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://airinchan.my.id">
     <img src="https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&size=30&duration=3000&pause=1000&color=e2e8ff&center=true&vCenter=true&width=435&lines=HELLO+I'M+'AIRINCHAN';+DISCORD+MUSIC+BOT;+AIRINCHAN.MY.ID">
   </a>
 </div>
@@ -195,4 +195,5 @@ If you love this bot, don't forget to vote.
 
 <p align="center">© 2024 AirinChan. All rights reserved.</p>
 
+<a href="https://airinchan.my.id">
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%">
